@@ -1,0 +1,51 @@
+﻿Store_ID,Store_Name,Store_City,Store_Location_Type,Store_Region_ID,Store_Open_Date
+1,Oz Store Melbourne 1,Melbourne,Residential,2,18/09/1992
+2,Oz Store Brisbane 1,Brisbane,Residential,3,27/04/1995
+3,Oz Store Melbourne 2,Melbourne,Commercial,2,27/12/1999
+4,Oz Store Wollongong 1,Wollongong,Downtown,1,1/01/2000
+5,Oz Store Maitland 1,Maitland,Downtown,1,31/05/2001
+6,Oz Store Central Coast 1,Central Coast,Commercial,3,13/12/2003
+7,Oz Store Brisbane 2,Brisbane,Downtown,3,25/12/2003
+8,Oz Store Rockhampton 1,Rockhampton,Downtown,3,14/10/2004
+9,Oz Store Sydney 1,Sydney,Downtown,1,15/10/2004
+10,Oz Store Canberra 1,Canberra,Downtown,8,14/01/2005
+11,Oz Store Toowoomba 1,Toowoomba,Downtown,3,19/04/2005
+12,Oz Store Geelong 1,Geelong,Downtown,2,5/05/2006
+13,Oz Store Central Coast 2,Central Coast,Downtown,3,30/08/2006
+14,Oz Store Perth 1,Perth,Downtown,4,31/01/2007
+15,Oz Store Bundaberg 1,Bundaberg,Downtown,3,5/03/2007
+16,Oz Store Melton 1,Melton,Downtown,2,19/05/2007
+17,Oz Store Sunshine Coast 1,Sunshine Coast,Downtown,3,9/12/2007
+18,Oz Store Mackay 1,Mackay,Downtown,3,22/08/2008
+19,Oz Store Gold Coast 1,Gold Coast,Commercial,3,16/12/2008
+20,Oz Store Coffs Harbour 1,Coffs Harbour,Downtown,1,29/05/2009
+21,Oz Store Hervey Bay 1,Hervey Bay,Downtown,3,23/11/2009
+22,Oz Store Perth 2,Perth,Commercial,4,29/03/2010
+23,Oz Store Newcastle 1,Newcastle,Commercial,1,12/06/2010
+24,Oz Store Townsville 1,Townsville,Downtown,3,31/07/2010
+25,Oz Store Darwin 1,Darwin,Downtown,7,8/09/2010
+26,Oz Store Canberra 2,Canberra,Commercial,8,15/09/2010
+27,Oz Store Bunbury 1,Bunbury,Downtown,4,2/10/2010
+28,Oz Store Gold Coast 2,Gold Coast,Downtown,3,1/04/2011
+29,Oz Store Hobart 1,Hobart,Commercial,6,21/06/2011
+30,Oz Store Melbourne 3,Melbourne,Airport,2,20/10/2011
+31,Oz Store Sydney 2,Sydney,Airport,1,4/05/2012
+32,Oz Store Adelaide 1,Adelaide,Residential,5,31/08/2012
+33,Oz Store Brisbane 3,Brisbane,Airport,3,17/03/2013
+34,Oz Store Wagga Wagga 1,Wagga Wagga,Downtown,1,7/06/2013
+35,Oz Store Cairns 1,Cairns,Downtown,3,11/06/2013
+36,Oz Store Launceston 1,Launceston,Downtown,6,1/07/2013
+37,Oz Store Sydney 3,Sydney,Residential,1,28/11/2013
+38,Oz Store Newcastle 2,Newcastle,Downtown,1,18/03/2014
+39,Oz Store Hobart 2,Hobart,Downtown,6,21/04/2014
+40,Oz Store Sunshine Coast 2,Sunshine Coast,Commercial,3,27/05/2014
+41,Oz Store Adelaide 2,Adelaide,Downtown,5,1/06/2014
+42,Oz Store Adelaide 3,Adelaide,Commercial,5,27/06/2014
+43,Oz Store Bendigo 1,Bendigo,Downtown,2,30/06/2014
+44,Oz Store Gold Coast 3,Gold Coast,Residential,3,27/12/2014
+45,Oz Store Sydney 4,Sydney,Commercial,1,21/06/2015
+46,Oz Store Melbourne 4,Melbourne,Downtown,2,31/10/2015
+47,Oz Store Brisbane 4,Brisbane,Commercial,3,21/11/2015
+48,Oz Store Wollongong 2,Wollongong,Commercial,1,23/03/2016
+49,Oz Store Ballarat 1,Ballarat,Downtown,2,10/05/2016
+50,Oz Store Perth 3,Perth,Residential,4,18/05/2016
