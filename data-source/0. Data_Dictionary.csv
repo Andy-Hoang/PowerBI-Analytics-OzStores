@@ -1,0 +1,36 @@
+Table,Field,Description
+Products,Product_ID,Product ID
+Products,Product_Name,Product name
+Products,Product_Category_ID,Product Category ID
+Products,Product_Cost,Product cost ($AUD)
+Products,Product_Price,Product retail price ($AUD)
+Product_Categories,Product_Category_ID,Product Category ID
+Product_Categories,Product_Category,Product Category
+Stores,Store_ID,Store ID
+Stores,Store_Name,Store name
+Stores,Store_City,City in Australia where the store is located
+Stores,Store_Location_Type,"Location type in the city where the store is located (eg. Residential, commercial,…)"
+Stores,Store_Region_ID,Region/ State ID where the store is located
+Stores,Store_Open_Date,Date when the store was opened
+Store_Region,Store_Region_ID,Region ID where the store is located
+Store_Region,Store_State,State or Territory where the store is located
+Store_Region,Store_Country,Country where the store is located
+Customer,Customer_ID,Customer ID
+Customer,Prefix,"Mrs., Mr, blank"
+Customer,First_Name,First Name
+Customer,Last_Name,Last Name
+Customer,Birth_Date,Birth Date
+Customer,Marital_Status,"S: single, M: Marriaged"
+Customer,Gender,"M, F, NA"
+Customer,Email_Address,Email_Address
+Customer,Occupation,Occupation type of the customer
+Customer,Full_Name,Full Name
+Customer,Customer_Priority,Member type of the customer
+Customer,Birth_Year,Birth Year of the customer
+Sales,Sale_ID,Sale ID
+Sales,Date,Date of the transaction
+Sales,Store_ID,Store ID
+Sales,Customer_ID,Customer ID
+Sales,Product_ID,Product ID
+Sales,Quantity,Units sold
+Calendar,Date,Calendar date
