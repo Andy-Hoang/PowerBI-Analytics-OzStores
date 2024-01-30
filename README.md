@@ -1,5 +1,5 @@
 # PowerBI-Analytics-OzStores
-This PowerBI project analyzes the performance of a fictional store chain with multiple stores across Australia. The goal is to illustrate PowerBI's capabilities in analyzing and reporting on sales data, customer behavior, and key performance indicators.
+This PowerBI project analyses the performance of a fictional store chain with multiple stores across Australia. The goal is to illustrate PowerBI's capabilities in analysing and reporting on sales data, customer behavior, and key performance indicators.
 
 
 ## Data Collection
@@ -11,7 +11,7 @@ The file "0.Data_Dictionary" in the "data-source" folder provides definitions fo
 ## Data Model
 
 The data model is structured as a star schema, which facilitates efficient analysis and reporting. The central fact table contains sales data, and it is connected to dimension tables such as time, products, customers, and stores.
-![model-star schema](report-images/model-star schema.png)
+![model-star%20schema](report-images/model-star%20schema.png)
 
 ## Report Pages
 
@@ -21,7 +21,7 @@ The PowerBI report provides 4 main pages:
 ![executive-dashboard](report-images/executive-dashboard.png)
 
 2. **Map:** Comparison of sales performance among different stores based on locations.
-![map-report by location](report-images/map-report by location.png)
+![map-report%20by%20location](report-images/map-report%20by%20location.png)
 
 3. **Customer:** Identification of customer segments based on purchasing behavior.
 ![customer-analysis](report-images/customer-analysis.png)
@@ -52,6 +52,8 @@ Users can drill up or down to explore data at different levels of granularity. F
 Key Performance Indicators (KPIs) are displayed with a comparison to the previous month. This allows users to quickly assess performance trends and variations.
 
 ## Getting Started
+
+You can view the Power BI report [here](https://app.powerbi.com/view?r=eyJrIjoiYzZiNThlNDctMDczNC00MDUyLWIxMDEtNWE4MDc0MTY2ZGRmIiwidCI6IjhiMTc3ZWEzLWQzN2MtNDMyNS05NjQyLTQ1MDNlZmMxYzY1NCJ9).
 
 To explore the PowerBI report, follow these steps:
 
