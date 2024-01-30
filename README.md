@@ -20,11 +20,17 @@ The PowerBI report provides 4 main pages:
 1. **Executive dashboard:** Depicting sales trends over time, and key information for executives.
 ![executive-dashboard](report-images/executive-dashboard.png)
 
+
 2. **Map:** Comparison of sales performance among different stores based on locations.
 ![map-report%20by%20location](report-images/map-report%20by%20location.png)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6c472f3a096eccec25b81187129baedcb2ee068e
 
 3. **Customer:** Identification of customer segments based on purchasing behavior.
 ![customer-analysis](report-images/customer-analysis.png)
+
 
 4. **Product Detail:** In-depth exploration of the selected product.
 ![product-details](report-images/product-details.png)
@@ -41,6 +47,7 @@ The report uses parameters to allow users to dynamically interact with visuals.
 ### Navigation Buttons
 
 The report includes navigation buttons between pages, enhancing user experience and facilitating seamless exploration of different aspects of the data.
+
 ![navigation-buttons](report-images/navigation-buttons.png)
 
 ### Drill Up and Drill Down
