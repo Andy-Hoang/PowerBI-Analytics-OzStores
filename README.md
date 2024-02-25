@@ -1,6 +1,9 @@
 # PowerBI-Analytics-OzStores
 This PowerBI project analyses the performance of a fictional store chain with multiple stores across Australia. The goal is to illustrate PowerBI's capabilities in analysing and reporting on sales data, customer behavior, and key performance indicators.
 
+## Power BI report
+
+You can view the [Power BI report here](https://app.powerbi.com/view?r=eyJrIjoiYzZiNThlNDctMDczNC00MDUyLWIxMDEtNWE4MDc0MTY2ZGRmIiwidCI6IjhiMTc3ZWEzLWQzN2MtNDMyNS05NjQyLTQ1MDNlZmMxYzY1NCJ9).
 
 ## Data Collection
 
@@ -23,10 +26,6 @@ The PowerBI report provides 4 main pages:
 
 2. **Map:** Comparison of sales performance among different stores based on locations.
 ![map-report%20by%20location](report-images/map-report%20by%20location.png)
-<<<<<<< HEAD
-=======
-
->>>>>>> 6c472f3a096eccec25b81187129baedcb2ee068e
 
 3. **Customer:** Identification of customer segments based on purchasing behavior.
 ![customer-analysis](report-images/customer-analysis.png)
@@ -60,7 +59,7 @@ Key Performance Indicators (KPIs) are displayed with a comparison to the previou
 
 ## Getting Started
 
-You can view the Power BI report [here](https://app.powerbi.com/view?r=eyJrIjoiYzZiNThlNDctMDczNC00MDUyLWIxMDEtNWE4MDc0MTY2ZGRmIiwidCI6IjhiMTc3ZWEzLWQzN2MtNDMyNS05NjQyLTQ1MDNlZmMxYzY1NCJ9).
+You can view the [Power BI report here](https://app.powerbi.com/view?r=eyJrIjoiYzZiNThlNDctMDczNC00MDUyLWIxMDEtNWE4MDc0MTY2ZGRmIiwidCI6IjhiMTc3ZWEzLWQzN2MtNDMyNS05NjQyLTQ1MDNlZmMxYzY1NCJ9).
 
 To explore the PowerBI report, follow these steps:
 
